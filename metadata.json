@@ -1,0 +1,6 @@
+{
+  "name": "SpeseTrack PWA",
+  "description": "App PWA per il tracciamento delle spese personali con sincronizzazione Google Drive, statistiche in tempo reale e controllo budget.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
